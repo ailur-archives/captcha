@@ -2,7 +2,7 @@
 
 <div>
 
-[![PkgGoDev](https://pkg.go.dev/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://pkg.go.dev/github.com/centrifuge.hectabit.org/HectaBit/captcha)
+[![PkgGoDev](https://pkg.go.dev/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://pkg.go.dev/centrifuge.hectabit.org/HectaBit/captcha)
 [![Go Report Card](https://goreportcard.com/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://goreportcard.com/report/centrifuge.hectabit.org/HectaBit/captcha)
 
 </div>
