@@ -2,19 +2,17 @@
 
 <div>
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/steambap/captcha)](https://pkg.go.dev/github.com/steambap/captcha)
-[![Build Status](https://github.com/steambap/captcha/workflows/CI/badge.svg)](https://github.com/steambap/captcha/actions?workflow=CI)
-[![codecov](https://codecov.io/gh/steambap/captcha/branch/main/graph/badge.svg)](https://codecov.io/gh/steambap/captcha)
-[![Go Report Card](https://goreportcard.com/badge/github.com/steambap/captcha)](https://goreportcard.com/report/github.com/steambap/captcha)
+[![PkgGoDev](https://pkg.go.dev/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://pkg.go.dev/github.com/centrifuge.hectabit.org/HectaBit/captcha)
+[![Go Report Card](https://goreportcard.com/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://goreportcard.com/report/centrifuge.hectabit.org/HectaBit/captcha)
 
 </div>
 
 ## Why another captcha generator?
-I want a simple and framework-independent way to generate captcha. It also should be flexible, at least allow me to pick my favorite font.
+Because I can. 
 
 ## install
 ```
-go get github.com/steambap/captcha
+go get centrifuge.hectabit.org/HectaBit/captcha
 ```
 
 ## usage
@@ -32,7 +30,7 @@ func handle(w http.ResponseWriter, r *http.Request) {
 
 ```
 
-[documentation](https://pkg.go.dev/github.com/steambap/captcha) |
+[documentation](https://pkg.go.dev/centrifuge.hectabit.org/HectaBit/captcha) |
 [example](example/basic/main.go) |
 [font example](example/load-font/main.go)
 
