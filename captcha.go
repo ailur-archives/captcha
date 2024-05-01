@@ -62,7 +62,7 @@ func newDefaultOption(width, height int) *Options {
 	return &Options{
 		BackgroundColor: color.Transparent,
 		CharPreset:      charPreset,
-		TextLength:      4,
+		TextLength:      6,
 		CurveNumber:     2,
 		FontDPI:         72.0,
 		FontScale:       1.0,
