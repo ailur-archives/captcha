@@ -1,4 +1,4 @@
-module github.com/steambap/captcha
+module centrifuge.hectabit.org/HectaBit/captcha
 
 go 1.20
 
