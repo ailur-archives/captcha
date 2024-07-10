@@ -1,4 +1,4 @@
-module centrifuge.hectabit.org/HectaBit/captcha
+module concord.hectabit.org/HectaBit/captcha
 
 go 1.20
 

@@ -2,8 +2,8 @@
 
 <div>
 
-[![PkgGoDev](https://pkg.go.dev/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://pkg.go.dev/centrifuge.hectabit.org/HectaBit/captcha)
-[![Go Report Card](https://goreportcard.com/badge/centrifuge.hectabit.org/HectaBit/captcha)](https://goreportcard.com/report/centrifuge.hectabit.org/HectaBit/captcha)
+[![PkgGoDev](https://pkg.go.dev/badge/concord.hectabit.org/HectaBit/captcha)](https://pkg.go.dev/concord.hectabit.org/HectaBit/captcha)
+[![Go Report Card](https://goreportcard.com/badge/concord.hectabit.org/HectaBit/captcha)](https://goreportcard.com/report/concord.hectabit.org/HectaBit/captcha)
 
 </div>
 
@@ -12,7 +12,7 @@ Because I can.
 
 ## install
 ```
-go get centrifuge.hectabit.org/HectaBit/captcha
+go get concord.hectabit.org/HectaBit/captcha
 ```
 
 ## usage
@@ -30,7 +30,7 @@ func handle(w http.ResponseWriter, r *http.Request) {
 
 ```
 
-[documentation](https://pkg.go.dev/centrifuge.hectabit.org/HectaBit/captcha) |
+[documentation](https://pkg.go.dev/concord.hectabit.org/HectaBit/captcha) |
 [example](example/basic/main.go) |
 [font example](example/load-font/main.go)
 
